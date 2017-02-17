@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "alt-shift-t": "atom-phpunit:run-test"
+  }
+}
