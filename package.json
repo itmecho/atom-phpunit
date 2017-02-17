@@ -1,7 +1,7 @@
 {
   "name": "atom-phpunit",
   "main": "./lib/atom-phpunit",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Run phpunit and see the results all from inside atom",
   "keywords": [],
   "repository": "https://github.com/Synapse791/atom-phpunit",
