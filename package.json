@@ -4,9 +4,6 @@
   "version": "0.1.0",
   "description": "Run phpunit and see the results all from inside atom",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "atom-phpunit:run-test"
-  },
   "repository": "https://github.com/Synapse791/atom-phpunit",
   "license": "MIT",
   "engines": {
