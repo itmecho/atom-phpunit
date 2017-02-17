@@ -1,3 +1,6 @@
+## 1.0.0
+* Added configuration to enable the use of external phpunit binary
+
 ## 0.3.0 - Run test suite
 * Added command to run the entire test suite
 
