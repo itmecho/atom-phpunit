@@ -1,3 +1,6 @@
+## 1.1.0
+* Added configuration to persist success and failure notifications
+
 ## 1.0.0
 * Added configuration to enable the use of external phpunit binary
 
