@@ -1,3 +1,7 @@
+## 1.2.0
+* Display output in a panel
+* Added configuration to show success output as a notification
+
 ## 1.1.0
 * Added configuration to persist success and failure notifications
 
