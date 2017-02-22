@@ -5,5 +5,33 @@
 @import "ui-variables";
 
 .atom-phpunit {
+  border-left: 2px solid #006600;
 
+  .header {
+    padding: 10px;
+    font-weight: 700;
+    color: #cccccc;
+    background-color: #006600;
+  }
+
+  .message .output {
+    overflow: scroll;
+    max-height: 40vh;
+    padding: 20px;
+
+    background-color: #000000;
+
+    color: #cccccc;
+    white-space: pre-wrap;
+    font-size: 14px;
+    font-weight: 300;
+  }
+
+  &.error {
+    border-left-color: #660000;
+
+    .header {
+      background-color: #660000;
+    }
+  }
 }
