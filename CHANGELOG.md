@@ -1,5 +1,5 @@
 ## 1.2.1
-* Fixing issue where atom-phpunit crashes if a test function contains an anonymous function (#1)
+* Fixing issue where atom-phpunit crashes if a test function contains an anonymous function [#1](https://github.com/Synapse791/atom-phpunit/issues/1)
 
 ## 1.2.0
 * Display output in a panel
