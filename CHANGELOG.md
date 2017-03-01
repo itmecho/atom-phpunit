@@ -1,3 +1,6 @@
+## 1.2.3
+* Fixing filtering to stop duplicate tests/filenames being run
+
 ## 1.2.2
 * Change regex to allow space between function name and parentheses (nikazooz)
 
