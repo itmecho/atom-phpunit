@@ -1,3 +1,6 @@
+## 1.2.2
+* Change regex to allow space between function name and parentheses (nikazooz)
+
 ## 1.2.1
 * Fixing issue where atom-phpunit crashes if a test function contains an anonymous function [#1](https://github.com/Synapse791/atom-phpunit/issues/1)
 
