@@ -1,3 +1,6 @@
+## 1.2.4
+* Adding support for multiple project folders (nikazooz)
+
 ## 1.2.3
 * Fixing filtering to stop duplicate tests/filenames being run
 
