@@ -4,6 +4,6 @@
     "alt-shift-c": "atom-phpunit:run-class",
     "alt-shift-s": "atom-phpunit:run-suite",
     "alt-shift-r": "atom-phpunit:run-last-test",
-    "alt-shift-x": "atom-phpunit:toggle-output"
+    "escape": "atom-phpunit:toggle-output"
   }
 }
