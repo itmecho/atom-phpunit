@@ -3,7 +3,9 @@
     "alt-shift-t": "atom-phpunit:run-test",
     "alt-shift-c": "atom-phpunit:run-class",
     "alt-shift-s": "atom-phpunit:run-suite",
-    "alt-shift-r": "atom-phpunit:run-last-test",
-    "escape": "atom-phpunit:toggle-output"
+    "alt-shift-r": "atom-phpunit:run-last-test",    
+  }
+  'atom-workspace atom-text-editor:not([mini])': {
+    'escape': 'atom-phpunit:toggle-output',
   }
 }
