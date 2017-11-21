@@ -1,0 +1,15 @@
+PHPUnit 6.4.4 by Sebastian Bergmann and contributors.
+
+F                                                                   1 / 1 (100%)
+
+Time: 36 ms, Memory: 4.00MB
+
+There was 1 failure:
+
+1) AllTheTest::test_failing
+Failed asserting that true is false.
+
+/Users/user/atom-phpunit-fixtures/tests/AllTheTest.php:15
+
+FAILURES!
+Tests: 1, Assertions: 1, Failures: 1.
