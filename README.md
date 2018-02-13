@@ -20,3 +20,11 @@ There is also an option to control how success output is displayed, wither in th
 
 ## Preview
 ![Preview](https://github.com/Synapse791/atom-phpunit/raw/master/preview.gif)
+
+## Tests
+To run tests on this package:
+```sh
+$ git clone https://github.com/Synapse791/atom-phpunit.git
+$ cd atom-phpunit
+$ atom --test spec
+```
