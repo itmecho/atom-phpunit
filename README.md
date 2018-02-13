@@ -10,6 +10,8 @@ atom-phpunit comes with 4 commands:
   * runs the current test class (open file)
 * `run-suite` - `Alt+Shift+S`
   * runs phpunit without any filter
+* `run-last-test` - `Alt+Shift+R`
+  * reruns the last test/s
 * `toggle-output` - `Alt+Shift+X`
   * toggles the output panel
 
