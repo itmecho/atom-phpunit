@@ -18,7 +18,12 @@ atom-phpunit comes with 4 commands:
 ## Settings
 By default, atom-phpunit assumes you have used composer to pull in the `phpunit` package and uses the `./vendor/bin/phpunit` path. This can be altered in the settings by unchecking the 'Use Vendor' option and setting the path to your `phpunit` binary in the 'PHPUnit Path' setting.
 
-There is also an option to control how success output is displayed, wither in the output panel or a notification.
+Other confuration options include:
+* Option to automatically save file before executing phpunit
+* Successful tests as notifications
+* Failures as notifications
+* Output font size
+* Option to configure a custom path to PHPUnit executable
 
 ## Preview
 ![Preview](https://github.com/Synapse791/atom-phpunit/raw/master/preview.gif)
