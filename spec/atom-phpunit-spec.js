@@ -30,7 +30,7 @@ describe('atom-phpunit', () => {
         // helper function to wait for async commands to run, then run a callback of expectations
         const runCommandThen = (expectations) => {
             let done = false;
-            runs(() => AtomPhpunit.execute().on('exit', () => done = true ))
+            runs(() => AtomPhpunit.execute().then(exec => exec.on('exit', () => done = true )))
             waitsFor(() => done, "The command should be complete", 250 )
             runs(expectations)
         }
